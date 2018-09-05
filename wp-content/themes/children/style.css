@@ -1,7 +1,6 @@
-/*
-Theme Name: children
-Template: twentyseventeen
-*/
+@import url("../under/style.css");
+h1 {
+  font-size: 10rem;
+}
 
-@import url("../twentyseventeen/style.css");
 /*# sourceMappingURL=style.css.map */
